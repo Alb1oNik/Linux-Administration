@@ -1,5 +1,5 @@
 ---------------
-Create new user
+How to create new user
 ---------------
 
 1. Create user "username" with home directory and set /bin/bash
