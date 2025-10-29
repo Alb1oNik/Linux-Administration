@@ -8,7 +8,7 @@ How to create new user
 
 2. Add user to sudo
 
-        sudo useradd-m -s /bin/bash username
+        sudo usermode -aG sudo username
 
 3. Checkin user groups
 
